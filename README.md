@@ -122,7 +122,7 @@ Criar soluções escaláveis e inteligentes unindo:
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorobaraujo/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeitorAraujo-png)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeitorAraujoQA)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitoraraujodev@gmail.com)
 
 > “Qualidade não é apenas encontrar bugs, mas garantir confiança no software.”
